@@ -1,0 +1,68 @@
+.container5
+{
+    margin: 50px;
+}
+.ourfriend
+{
+text-align: left;
+font-family: 'Alex Brush', cursive;
+color: burlywood;
+}
+.thanks
+{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.photos
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.content
+{
+   display: flex;
+   flex-direction: column;
+   font-size: 1rem;
+}
+.friendsname
+{
+   text-align:left; 
+   font-size: 1.1rem;
+   font-family: 'Alex Brush', cursive;
+   color: rgb(211, 167, 111);
+}
+.discription
+{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+   
+}
+.title1
+{
+    font-family: 'Alex Brush', cursive;
+    color: burlywood;
+  
+}
+.friendsimages
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.friendsection
+{
+display: contents;
+padding: 20px;
+  
+}
+.friendcontent
+{
+    margin: 20px;
+    padding: 40px;
+    text-align: left;
+    background-color:white;
+    justify-content: center;
+}

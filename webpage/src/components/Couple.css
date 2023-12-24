@@ -1,0 +1,112 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    padding:5px ;
+}
+.container1
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 100px;
+    height: 400px;
+   width:550px;
+   background-color:#ffffff ;
+
+}
+.img1
+{ 
+    display: flex;
+justify-content: right;
+align-items: center;
+margin: 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.olivia
+{
+    text-align: right;
+}
+.brideimg
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    text-align: left;
+}
+.bride
+{
+   
+    font-family:  "Alex Brush", cursive;
+    color:#bd945a;  
+}
+.container2
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 100px;
+    height: 400px;
+   width:550px;
+   background-color:#ffffff ;
+
+    /* display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 100px;
+    padding: 5px;
+    height: 400px;
+   width:550px;
+   background-color: #ffffff; */
+}
+.img2
+{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: 20px;
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+   
+}
+.enrico
+{
+    text-align: left;
+
+}
+.groom
+{
+    font-family:  "Alex Brush", cursive;
+    color:#bd945a;  
+}
+.icons1
+{
+    
+    color:#b4b4b4;
+    gap: 2rem;
+}
+
+.facebook:hover
+{
+background-color: #b68a4c;
+border-radius: 50%;
+r: #ffffff;
+}
+.twitter:hover
+{
+background-color: #bd945a;
+border-radius: 50%;
+}
+
+.instagram:hover
+{
+background-color: #bd945a;
+border-radius: 50%;
+}
+
+
+

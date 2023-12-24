@@ -1,0 +1,79 @@
+.main
+{
+    display:inline-block;
+  
+   background-color: white;
+   padding: 50px;
+   width: 1200px;
+   overflow: hidden;
+}
+.giftregistry
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.slider
+{
+    display: block;
+   padding-top: 10px;
+
+
+}
+.logo1
+{
+    /* height:100px ;
+    width:50px;
+    overflow: hidden; */
+}
+.logo2
+/* {
+    height:100px ;
+    width:50px;
+    overflow: hidden;
+} */
+/* .logo3
+{
+    height:100px ;
+    width:50px;
+    overflow: hidden;
+} */
+/* .logo4
+{
+    height:100px ;
+    width:50px;
+    overflow: hidden;
+} */
+/* .logo5
+{
+    height:100px ;
+    width:50px;
+    overflow: hidden;
+} */
+.logo6
+{
+    height:100px ;
+    width:50px;
+    overflow: hidden;
+}
+.registry
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+
+}
+.leaf
+{
+    height: 50px;
+  
+}
+.end
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 90px;
+    padding: 20px;
+}

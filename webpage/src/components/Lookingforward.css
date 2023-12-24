@@ -1,0 +1,11 @@
+.container6
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://www.nuptials.ph/wp-content/uploads/2020/11/Couple-wearing-wedding-rings.png');
+   background-attachment: fixed;
+   color: white;
+   font-size: 20px;
+   height: 50vh;
+}

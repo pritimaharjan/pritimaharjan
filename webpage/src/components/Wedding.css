@@ -1,0 +1,89 @@
+
+.container7{
+    /* position: relative; */
+    align-items: center;
+    object-fit: cover;
+    width: fit-content;
+    
+}
+
+
+
+.bgimage
+{
+    object-fit: cover;
+    height: 300px;
+    width:1400px;
+    display: none;
+}
+.events
+{
+  display: grid;
+
+  margin-left: 200px;
+  grid-auto-flow: column;
+  /* grid-template-columns:auto ; */
+/* grid-column: auto; */
+/* grid-template-columns: 50% 50% 50% 50%; */
+gap: 1rem;
+   
+}
+
+.ceremony
+{
+/* display: flex; */
+
+text-align: left;
+background-color: white;
+height: 300px;
+width: 200px;
+/* margin: 50px; */
+}
+.ceremony:hover{
+    background-image: url('https://www.nuptials.ph/wp-content/uploads/2020/11/Couple-wearing-wedding-rings.png');
+    background-position: left;
+}
+.lunchtime
+{
+   
+    text-align: left;
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    /* margin: 50px; */
+    padding-left: 20px;
+    
+}
+.lunchtime:hover{
+background-image: url('https://www.nuptials.ph/wp-content/uploads/2020/11/Couple-wearing-wedding-rings.png');
+background-position: center;
+
+}
+.party
+{
+   
+    text-align: left;
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    /* margin: 50px; */
+    padding-left: 20px;
+}
+.party:hover{
+    background-image: url('https://www.nuptials.ph/wp-content/uploads/2020/11/Couple-wearing-wedding-rings.png');
+    background-position: center;
+}
+.cakecutting
+{
+   
+    text-align: left;
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    /* margin: 50px; */
+    padding-left: 20px;
+}
+.cakecutting:hover{
+    background-image: url('https://www.nuptials.ph/wp-content/uploads/2020/11/Couple-wearing-wedding-rings.png');
+    background-position: right;
+}

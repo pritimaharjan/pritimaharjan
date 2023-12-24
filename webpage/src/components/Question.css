@@ -1,0 +1,91 @@
+.container9
+{
+    display:flex ;
+    flex-direction: column;
+   text-align: left;
+    
+    margin-top: 250px;
+   padding-left: 90px;
+}
+.weddingevents
+{
+display: flex;
+justify-content: center;
+gap: 2rem;
+/* background-color: aquamarine; */
+}
+.weddingimg
+{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 400px;
+}
+.weddingceremony:hover .weddingimg
+{
+    transform: scale(1.1);
+}
+.weddingceremony
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: white;
+    overflow: hidden;
+    height: 500px;
+    width: 400px;
+    /* margin: 10px; */
+}
+
+.partyimg
+{
+    justify-content: center;
+    height: 250px;
+    width: 400px;
+}
+.weddingparty:hover .partyimg{
+    transform: scale(1.2)
+}
+.weddingparty
+{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    overflow: hidden;
+   
+    text-align: left;
+    height: 500px;
+    width: 400px;
+
+}
+.accomodationimg
+{
+    display: flex;
+    justify-content: center;
+    
+    height: 250px;
+    width: 400px;
+}
+.accomodations:hover .accomodationimg
+{transform: scale(1.2);
+
+}
+.accomodations
+{
+    display: flex;
+    flex-direction: column;
+  background-color: white;
+  overflow: hidden;
+    text-align: left;
+    height: 500px;
+    width: 400px;
+}
+.direction
+{
+    display:inline-block;
+    margin-bottom: 2rem;
+}
+.content
+{
+    margin: 20px;
+}

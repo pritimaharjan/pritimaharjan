@@ -1,0 +1,24 @@
+.coupletitle{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin:0px
+}
+.coupletitle
+{
+    font-family: 'Alex Brush', cursive;
+    color: #bd945a;
+    margin-bottom: 0px;
+    
+}
+.couplesubtitle
+{
+    font-family: 'Cormorant Garamond', serif;
+  margin-top: 0px;
+}
+.img3{
+    height:400px;
+    width: fit-content;
+}
